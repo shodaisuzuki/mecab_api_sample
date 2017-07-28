@@ -1,0 +1,1 @@
+# mecab_api_sample
